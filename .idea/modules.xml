@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/loops-e-arrays-dio.iml" filepath="$PROJECT_DIR$/.idea/loops-e-arrays-dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops-e-arrays-exercicios/loops-e-arrays-exercicios.iml" filepath="$PROJECT_DIR$/loops-e-arrays-exercicios/loops-e-arrays-exercicios.iml" />
+    </modules>
+  </component>
+</project>
